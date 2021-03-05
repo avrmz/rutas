@@ -2,7 +2,8 @@ const express=require('express');
 const app=express();
 const morgan=require('morgan');
 
-app.set('port',3001);
+app.set('port',3000);
+app.set('json spaces', 2);
 
 app.use(morgan('dev'));
 app.use(express.json());

@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "title":"primer juego",
+        "version": "1.32",
+        "coleccion":"accion"
+    },
+    {
+        "id":"2",
+        "title":"juego 2",
+        "version": "1.25",
+        "coleccion":"role"
+    }
+]
